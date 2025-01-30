@@ -2,18 +2,6 @@
 
 **Llamalert** is a robust memory monitoring and alerting tool designed to keep track of `ollama`'s memory usage on Ubuntu 22.04 systems. It proactively notifies users via email and Slack when memory usage exceeds predefined thresholds, ensuring optimal performance and preventing resource overutilization.
 
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Advanced Features](#advanced-features)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-
-
 - **Proactive Monitoring**: Continuously monitors `ollama`'s memory usage.
 - **Threshold-Based Alerts**: Sends notifications when usage exceeds specified limits.
 - **Multi-Channel Notifications**: Supports email and Slack integrations.
