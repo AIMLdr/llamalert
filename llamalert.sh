@@ -3,8 +3,8 @@
 
 ###########################################
 # Llamalert - Ollama Memory Usage Monitor #
-# Author: Your Name                        #
-# Date: YYYY-MM-DD                         #
+# Author: Gregory L. Magnusson            #
+# Date: 2025-01-12                        #
 ###########################################
 
 # -------------------------------
